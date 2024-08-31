@@ -1,6 +1,4 @@
-Aquí tienes un ejemplo de un archivo `README.md` para tu proyecto:
 
----
 
 # BoxManagement System
 
